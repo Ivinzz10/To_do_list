@@ -1,5 +1,11 @@
-*.pyc
+# Python
 __pycache__/
+*.pyc
+
+# Django
 db.sqlite3
-todo/       # if your virtual environment is inside the project
 .env
+
+# Virtual environment
+venv/
+.env/
